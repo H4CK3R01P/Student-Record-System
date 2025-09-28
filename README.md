@@ -32,3 +32,23 @@ This project is a **console-based Java application** that allows users to manage
  ```bash
 javac StudentRecordSystem.java
 
+```
+Example Output
+===== Student Record Management System =====
+
+Menu:
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Exit
+Enter your choice (1-5): 1
+Enter student ID: 101
+Enter student name: Alice
+Enter student marks: 85
+Student added successfully!
+
+Enter your choice (1-5): 2
+
+Student Records:
+ID: 101, Name: Alice, Marks: 85
